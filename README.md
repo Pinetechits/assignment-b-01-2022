@@ -11,7 +11,7 @@
 1. Application should contain FE and BE parts.
 2. Should not use any framework.
 3. FE pages - includes - user registration, login and dashboard page with users listing.
-4. Database - Mongoose / Mysql
+4. Database -  Mysql
 5. Code base should be well formatted.
 6. Application should be unit tested.
 7. Should submit the postman collection.
